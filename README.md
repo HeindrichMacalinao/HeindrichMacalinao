@@ -2,10 +2,10 @@
 
 I'm a current 2nd-year Computer Science student at New Era University.
 
-## 📜 Certificates ^-^
-- [Introduction to Cybersecurity](https://www.netacad.com/certificates/?issuanceId=9eab45ba-9414-4602-81b4-3b50ff768553)
+## 📜 Certifications ^-^
+- [Introduction to Cybersecurity](https://www.credly.com/badges/06aabd62-ddea-4a07-8d36-0c00da428aac/public_url)
 
-## 📫 Connect with Me !
+## 📫 Connect with Me!
 - [Gmail](mailto:heindrich.macalinao@gmail.com)
 - [Instagram](https://www.instagram.com/henrikmcln/?hl=en)
 - [GitHub](https://github.com/HeindrichMacalinao)
