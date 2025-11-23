@@ -24,6 +24,12 @@ I'm a current 2nd-year Computer Science student at New Era University.
 | [Digital Citizenship Training](https://drive.google.com/file/d/1htrulHSI_eFtTzknpG4zb1NvXHFyTnEU/view?usp=sharing) | DICT | June 2025 |
 | [UI and UX Design](https://drive.google.com/file/d/18grJQEmh3J8UzsxpJF9E_cKGR-r2egj-/view?usp=sharing) | DICT | June 2025 |
 
+## 🛠 Skill Sets 
+- **Programming Languages:** Java, SQL, Python, HTML
+- **Databases:** IBM DB2 Cloud
+- **Frameworks & Tools:** Lucidchart, Figma, Canva Education
+- **DevTools**: Visual Studio Code, Microsoft Office
+
 ## 📫 Connect with Me!
 - [Gmail](https://mail.google.com/mail/?view=cm&to=heindrich.macalinao@gmail.com)
 - [Facebook](https://www.facebook.com/heindrichmcln/)
