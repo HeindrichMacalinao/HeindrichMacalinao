@@ -1,7 +1,11 @@
 # Hey there, I'm Heindrich 👋
 
 ## Heindrich Himmler Macalinao
-I'm a current 2nd-year Computer Science student at New Era University. 
+I am a second-year Computer Science student at New Era University, interested in AI development and data science. I enjoy working with Java and Python, and I’m someone who can debug for long hours to solve problems efficiently.
+
+I am currently learning SQL through IBM Db2 while strengthening my skills in Java programming. I focus on improving my understanding of software development, databases, and analytical thinking.
+
+I am also a DOST Merit Scholar and the Secretary of the Association of Computer Science Students (ACSS), I aim to combine academic growth with leadership and service in the field of computing.
 
 ## 🎓 Education
 | Grade Level | Institution | Date |
@@ -25,10 +29,10 @@ I'm a current 2nd-year Computer Science student at New Era University.
 | [UI and UX Design](https://drive.google.com/file/d/18grJQEmh3J8UzsxpJF9E_cKGR-r2egj-/view?usp=sharing) | DICT | June 2025 |
 
 ## 🛠 Skill Sets 
-- **Programming Languages:** Java, SQL, Python, HTML
+- **Programming Languages:** Java, SQL, Python, HTML, CSS
 - **Databases:** IBM DB2 Cloud
-- **Frameworks & Tools:** Lucidchart, Figma, Canva Education
-- **DevTools**: Visual Studio Code, Microsoft Office
+- **Frameworks & Tools:** Lucidchart, Figma, Canva Education, Notion, Obsidian
+- **DevTools**: Visual Studio Code, Microsoft Office, Git 
 
 ## 📫 Connect with Me!
 - [Gmail](https://mail.google.com/mail/?view=cm&to=heindrich.macalinao@gmail.com)
