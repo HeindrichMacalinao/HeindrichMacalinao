@@ -35,7 +35,7 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 - **DevTools**: Visual Studio Code, Microsoft Office, Git 
 
 ## 📫 Connect with Me!
+- [LinkedIn](www.linkedin.com/in/heindrichmacalinao)
 - [Gmail](https://mail.google.com/mail/?view=cm&to=heindrich.macalinao@gmail.com)
 - [Facebook](https://www.facebook.com/heindrichmcln/)
 - [Instagram](https://www.instagram.com/henrikmcln/?hl=en)
-- [GitHub](https://github.com/HeindrichMacalinao)
