@@ -12,8 +12,8 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 |-------------|:---------:|:----:|
 | College | New Era University (Bachelor of Science in Computer Science | 2024 - Present |
 
-## 📜 Certifications & Badges ^-^
-| Certificate | Issued By | Month Issued |
+## 🎖️ Badges ^-^
+| Badge | Issued By | Month Issued |
 |-------------|:---------:|:----:|
 | [Introduction to Cybersecurity](https://www.credly.com/badges/06aabd62-ddea-4a07-8d36-0c00da428aac/public_url) | Cisco Networking Academy | June 2025 |
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/219090d71d9d43b584d6f7ce2a80525d) | Cognitive Class (IBM) | Nov 2025 |
