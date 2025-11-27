@@ -5,14 +5,14 @@ I am a second-year Computer Science student at New Era University, interested in
 
 I am currently learning SQL through IBM Db2 while strengthening my skills in Java programming. I focus on improving my understanding of software development, databases, and analytical thinking.
 
-I am also a DOST Merit Scholar and the current Secretary of the Association of Computer Science Students (ACSS) at New Era University, I aim to combine academic growth with leadership and service in the field of computing.
+I am also a DOST Merit Scholar and the current Secretary of the Association of Computer Science Students (ACSS) at New Era University. I aim to combine academic growth with leadership and service in the field of computing.
 
 ## 🎓 Education
 | Grade Level | Institution | Date |
 |-------------|:---------:|:----:|
 | College | New Era University (Bachelor of Science in Computer Science | 2024 - Present |
 
-## 🎖️ Badges ^-^
+## 🎖️ Badges
 | Badge | Issued By | Month Issued |
 |-------------|:---------:|:----:|
 | [Introduction to Cybersecurity](https://www.credly.com/badges/06aabd62-ddea-4a07-8d36-0c00da428aac/public_url) | Cisco Networking Academy | June 2025 |
