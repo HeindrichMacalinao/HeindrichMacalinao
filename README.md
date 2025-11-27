@@ -11,7 +11,6 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 | Grade Level | Institution | Date |
 |-------------|:---------:|:----:|
 | College | New Era University (Bachelor of Science in Computer Science | 2024 - Present |
-| High School | Marikina Science High School | 2018 - 2024 |
 
 ## 📜 Certifications & Badges ^-^
 | Certificate | Issued By | Month Issued |
