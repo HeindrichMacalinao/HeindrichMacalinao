@@ -17,6 +17,8 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 |-------------|:---------:|:----:|
 | [Introduction to Cybersecurity](https://www.credly.com/badges/06aabd62-ddea-4a07-8d36-0c00da428aac/public_url) | Cisco Networking Academy | June 2025 |
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/219090d71d9d43b584d6f7ce2a80525d) | Cognitive Class (IBM) | Nov 2025 |
+| [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=23D4F165705FF700903A2CFAC4D31AE2222666068F52A05FD3A174DB4F4C0F33) | Oracle University | Dec 2025 |
+
 
 ## 🗣 Seminars & Events Attended 
 | Program Title | Issued By | Month Issued |
