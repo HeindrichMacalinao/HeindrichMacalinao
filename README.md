@@ -19,6 +19,7 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/219090d71d9d43b584d6f7ce2a80525d) | Cognitive Class (IBM) | Nov 2025 |
 | [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=23D4F165705FF700903A2CFAC4D31AE2222666068F52A05FD3A174DB4F4C0F33) | Oracle University | Dec 2025 |
 | [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F87ED264F34C7F35A8802AC44CBDBBBC76B4CBF16D5B2EA0702C64B65B5CB067) | Oracle University | Dec 2025 |
+| [Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E2881D57AE98A4E760BC1BC4B8687EFE062705B0C4123A23A1BE2D9C12237C6) | Oracle University | Dec 2025 |
 
 
 ## 🗣 Seminars & Events Attended 
