@@ -3,7 +3,7 @@
 ## Heindrich Himmler Macalinao
 I am a second-year Computer Science student at New Era University, interested in AI development and data science. I enjoy working with Java and Python, and I’m someone who can debug for long hours to solve problems efficiently.
 
-I am currently learning SQL through IBM Db2 while strengthening my skills in Java programming. I focus on improving my understanding of software development, databases, and analytical thinking. I am also planning to take an online course about data science.
+I am currently improving my Java skills while taking courses in Object-Oriented Programming, Design and Analysis of Algorithms, Networking and Communications, Automata Theory and Formal Languages, Modeling and Simulation, and Advanced Statistics,.
 
 I am also a DOST Merit Scholar and the current Secretary of the Association of Computer Science Students (ACSS) at New Era University. I aim to combine academic growth with leadership and service in the field of computer science.
 
