@@ -31,16 +31,21 @@ Students (ACSS). I aim to combine academic growth with leadership and service.
 | [Digital Citizenship Training](https://drive.google.com/file/d/1htrulHSI_eFtTzknpG4zb1NvXHFyTnEU/view?usp=sharing) | DICT | June 2025 |
 | [UI and UX Design](https://drive.google.com/file/d/18grJQEmh3J8UzsxpJF9E_cKGR-r2egj-/view?usp=sharing) | DICT | June 2025 |
 
-## 🛠 Skill Sets 
-- **Programming Languages:** Java, SQL, Python, HTML, CSS
-- **Databases:** IBM DB2 Cloud
-- **Frameworks & Tools:** Lucidchart, Figma, Canva Education, Notion, Obsidian
-- **DevTools**: Visual Studio Code, Microsoft Office, Git
-
 ## 🛠️ Tech Stack
 
+**Languages**
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,html,css,git,github,vscode&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,kotlin,html,css&theme=dark" />
+</p>
+
+**Tools & Platforms**
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,git,github&theme=dark" />
+</p>
+
+**Databases & Cloud**
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ibm,cloudflare&theme=dark" />
 </p>
 
 ## 🤝 Connect with Me
