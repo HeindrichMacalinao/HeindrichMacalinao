@@ -34,7 +34,7 @@ Students (ACSS). I aim to combine academic growth with leadership and service.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,kotlin,html,css,androidstudio,vscode,intellij,git,github,ibm&perline=6&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,kotlin,html,css,androidstudio,vscode,intellij,git,github,ibm&theme=dark" />
 </p>
 
 ## 🤝 Connect with Me
