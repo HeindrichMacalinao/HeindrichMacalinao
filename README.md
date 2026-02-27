@@ -45,7 +45,8 @@ Students (ACSS). I aim to combine academic growth with leadership and service.
 
 **Databases & Cloud**
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ibm,cloudflare&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ibm&theme=dark" />
+  <img src="https://img.shields.io/badge/IBM%20Db2-1A1B26?style=for-the-badge&logo=ibm&logoColor=7AA2F7" />
 </p>
 
 ## 🤝 Connect with Me
