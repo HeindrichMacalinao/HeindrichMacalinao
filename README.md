@@ -52,3 +52,11 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
     <img src="https://img.shields.io/badge/Instagram-@henrikmcln-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=HeindrichMacalinao&theme=tokyonight&hide_border=true"
+    alt="GitHub streak"
+  />
+</p>
