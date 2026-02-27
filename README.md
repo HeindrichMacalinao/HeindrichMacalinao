@@ -1,6 +1,6 @@
-# Hey there, I'm Heindrich 👋
+<h1 align="center">Hey there, I'm Heindrich 👋</h1>
 
-## Heindrich Himmler Macalinao
+<h3 align="center">Heindrich Himmler Macalinao</h3>
 I'm a second-year Computer Science student at New Era University, passionate about
 AI development, data science, and solving problems with Java and Python.
 
