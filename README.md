@@ -1,11 +1,11 @@
 # Hey there, I'm Heindrich 👋
 
 ## Heindrich Himmler Macalinao
-I am a second-year Computer Science student at New Era University, interested in AI development and data science. I enjoy working with Java and Python, and I’m someone who can debug for long hours to solve problems efficiently.
+I'm a second-year Computer Science student at New Era University, passionate about
+AI development, data science, and solving problems with Java and Python.
 
-I am currently improving my Java skills while taking courses in Object-Oriented Programming, Design and Analysis of Algorithms, Networking and Communications, Automata Theory and Formal Languages, Modeling and Simulation, and Advanced Statistics.
-
-I am also a DOST Merit Scholar and the current Secretary of the Association of Computer Science Students (ACSS) at New Era University. I aim to combine academic growth with leadership and service in the field of computer science.
+Currently a DOST Merit Scholar and Secretary of the Association of Computer Science
+Students (ACSS). I aim to combine academic growth with leadership and service.
 
 ## 🎓 Education
 | Grade Level | Institution | Date |
@@ -35,7 +35,13 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 - **Programming Languages:** Java, SQL, Python, HTML, CSS
 - **Databases:** IBM DB2 Cloud
 - **Frameworks & Tools:** Lucidchart, Figma, Canva Education, Notion, Obsidian
-- **DevTools**: Visual Studio Code, Microsoft Office, Git 
+- **DevTools**: Visual Studio Code, Microsoft Office, Git
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,html,css,git,github,vscode&theme=dark" />
+</p>
 
 ## 🤝 Connect with Me
 
