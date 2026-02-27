@@ -40,16 +40,16 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 ## 📫 Connect with Me!
 <p align="center">
   <a href="https://www.linkedin.com/in/heindrichmacalinao">
-    <img src="https://img.shields.io/badge/LinkedIn-Heindrich%20Macalinao-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Heindrich%20Macalinao-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" />
   </a>
   <a href="mailto:heindrich.macalinao@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-heindrich.macalinao%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-heindrich.macalinao%40gmail.com-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E" />
   </a>
   <a href="https://www.facebook.com/heindrichmcln/">
-    <img src="https://img.shields.io/badge/Facebook-heindrichmcln-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-heindrichmcln-1A1B26?style=for-the-badge&logo=facebook&logoColor=7AA2F7" />
   </a>
   <a href="https://www.instagram.com/henrikmcln/">
-    <img src="https://img.shields.io/badge/Instagram-@henrikmcln-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@henrikmcln-1A1B26?style=for-the-badge&logo=instagram&logoColor=BB9AF7" />
   </a>
 </p>
 
