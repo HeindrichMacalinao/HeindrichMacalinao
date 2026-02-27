@@ -38,12 +38,13 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 - **DevTools**: Visual Studio Code, Microsoft Office, Git 
 
 ## 📫 Connect with Me!
+
 <p align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heindrich%20Macalinao-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1A1B26)](https://www.linkedin.com/in/heindrichmacalinao)
-[![Gmail](https://img.shields.io/badge/Gmail-heindrich.macalinao%40gmail.com-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1A1B26)](mailto:heindrich.macalinao@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-heindrichmcln-1A1B26?style=for-the-badge&logo=facebook&logoColor=7DCFFF&labelColor=1A1B26)](https://www.facebook.com/heindrichmcln/)
-[![Instagram](https://img.shields.io/badge/Instagram-@henrikmcln-1A1B26?style=for-the-badge&logo=instagram&logoColor=BB9AF7&labelColor=1A1B26)](https://www.instagram.com/henrikmcln/)
+
+| | |
+|---|---|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heindrich%20Macalinao-1A1B26?style=for-the-badge&logo=simpleicons&logoColor=7AA2F7&labelColor=1A1B26&logoSize=auto)](https://www.linkedin.com/in/heindrichmacalinao) | [![Gmail](https://img.shields.io/badge/Gmail-heindrich.macalinao%40gmail.com-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1A1B26)](mailto:heindrich.macalinao@gmail.com) |
+| [![Facebook](https://img.shields.io/badge/Facebook-heindrichmcln-1A1B26?style=for-the-badge&logo=facebook&logoColor=7DCFFF&labelColor=1A1B26)](https://www.facebook.com/heindrichmcln/) | [![Instagram](https://img.shields.io/badge/Instagram-@henrikmcln-1A1B26?style=for-the-badge&logo=instagram&logoColor=BB9AF7&labelColor=1A1B26)](https://www.instagram.com/henrikmcln/) |
 
 </p>
 
