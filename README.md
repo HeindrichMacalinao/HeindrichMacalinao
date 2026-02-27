@@ -46,7 +46,7 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 ## 📊 GitHub Stats
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=HeindrichMacalinao&show_icons=true&hide_border=true&title_color=00E5FF&text_color=C9D1D9&icon_color=00E5FF&bg_color=0D1117"
+    src=https://github-readme-stats.vercel.app/api?username=HeindrichMacalinao&show_icons=true&hide_border=true&theme=tokyonight"
     alt="HeindrichMacalinao GitHub Stats"
   />
 </p>
