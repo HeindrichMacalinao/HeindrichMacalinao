@@ -40,21 +40,13 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="mailto:heindrich.macalinao@gmail.com">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="56" alt="Gmail" />
-  </a>
-  <a href="https://github.com/HeindrichMacalinao">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="56" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/heindrichmacalinao">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="56" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/heindrichmcln/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark" height="56" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/henrikmcln/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark" height="56" alt="Instagram" />
-  </a>
+
+[![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark)](mailto:heindrich.macalinao@gmail.com)&nbsp;
+[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark)](https://github.com/HeindrichMacalinao)&nbsp;
+[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/heindrichmacalinao)&nbsp;
+[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark)](https://www.facebook.com/heindrichmcln/)&nbsp;
+[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)](https://www.instagram.com/henrikmcln/)
+
 </p>
 
 ## 📊 GitHub Stats
