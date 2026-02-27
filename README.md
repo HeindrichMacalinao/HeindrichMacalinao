@@ -37,23 +37,23 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 - **Frameworks & Tools:** Lucidchart, Figma, Canva Education, Notion, Obsidian
 - **DevTools**: Visual Studio Code, Microsoft Office, Git 
 
-### 🤝 Connect with Me 
+## 🤝 Connect with Me
 
 <p align="center">
   <a href="mailto:heindrich.macalinao@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="56" alt="Gmail" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark" height="56" alt="Gmail" />
   </a>
   <a href="https://github.com/HeindrichMacalinao">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="56" alt="GitHub" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark" height="56" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/heindrichmacalinao">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="56" alt="LinkedIn" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark" height="56" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/heindrichmcln/">
-    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="56" alt="Facebook" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark" height="56" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/henrikmcln/">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="56" alt="Instagram" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark" height="56" alt="Instagram" />
   </a>
 </p>
 
