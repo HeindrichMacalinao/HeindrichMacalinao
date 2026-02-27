@@ -57,6 +57,12 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=HeindrichMacalinao&theme=tokyonight&hide_border=true"
+    height="165"
     alt="GitHub streak"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeindrichMacalinao&layout=compact&theme=tokyonight&hide_border=true"
+    height="165"
+    alt="Most used languages"
   />
 </p>
