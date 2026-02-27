@@ -40,32 +40,20 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 ### 🤝 Connect with Me 
 
 <p align="center">
-  <a href="mailto:heindrich.macalinao@gmail.com" style="display:inline-block;text-decoration:none;border:0;">
-    <img src="https://cdn.simpleicons.org/gmail/7AA2F7" height="56" alt="Gmail" style="display:block;border:0;outline:none;text-decoration:none;" />
+  <a href="mailto:heindrich.macalinao@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="56" alt="Gmail" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/HeindrichMacalinao" style="display:inline-block;text-decoration:none;border:0;">
-    <img src="https://cdn.simpleicons.org/github/7AA2F7" height="56" alt="GitHub" style="display:block;border:0;outline:none;text-decoration:none;" />
+  <a href="https://github.com/HeindrichMacalinao">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="56" alt="GitHub" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/heindrichmacalinao" style="display:inline-block;text-decoration:none;border:0;">
-    <img src="https://cdn.simpleicons.org/linkedin/7AA2F7" height="56" alt="LinkedIn" style="display:block;border:0;outline:none;text-decoration:none;" />
+  <a href="https://www.linkedin.com/in/heindrichmacalinao">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="56" alt="LinkedIn" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.facebook.com/heindrichmcln/" style="display:inline-block;text-decoration:none;border:0;">
-    <img src="https://cdn.simpleicons.org/facebook/7AA2F7" height="56" alt="Facebook" style="display:block;border:0;outline:none;text-decoration:none;" />
+  <a href="https://www.facebook.com/heindrichmcln/">
+    <img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="56" alt="Facebook" />
   </a>
-
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/henrikmcln/" style="display:inline-block;text-decoration:none;border:0;">
-    <img src="https://cdn.simpleicons.org/instagram/7AA2F7" height="56" alt="Instagram" style="display:block;border:0;outline:none;text-decoration:none;" />
+  <a href="https://www.instagram.com/henrikmcln/">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" height="56" alt="Instagram" />
   </a>
 </p>
 
