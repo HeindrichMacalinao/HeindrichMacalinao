@@ -39,18 +39,12 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 
 ## 📫 Connect with Me!
 <p align="center">
-  <a href="https://www.linkedin.com/in/heindrichmacalinao">
-    <img src="https://img.shields.io/badge/LinkedIn-Heindrich%20Macalinao-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" />
-  </a>
-  <a href="mailto:heindrich.macalinao@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-heindrich.macalinao%40gmail.com-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E" />
-  </a>
-  <a href="https://www.facebook.com/heindrichmcln/">
-    <img src="https://img.shields.io/badge/Facebook-heindrichmcln-1A1B26?style=for-the-badge&logo=facebook&logoColor=7AA2F7" />
-  </a>
-  <a href="https://www.instagram.com/henrikmcln/">
-    <img src="https://img.shields.io/badge/Instagram-@henrikmcln-1A1B26?style=for-the-badge&logo=instagram&logoColor=BB9AF7" />
-  </a>
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Heindrich%20Macalinao-1A1B26?style=for-the-badge&logo=linkedin&logoColor=7AA2F7&labelColor=1A1B26)](https://www.linkedin.com/in/heindrichmacalinao)
+[![Gmail](https://img.shields.io/badge/Gmail-heindrich.macalinao%40gmail.com-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1A1B26)](mailto:heindrich.macalinao@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-heindrichmcln-1A1B26?style=for-the-badge&logo=facebook&logoColor=7DCFFF&labelColor=1A1B26)](https://www.facebook.com/heindrichmcln/)
+[![Instagram](https://img.shields.io/badge/Instagram-@henrikmcln-1A1B26?style=for-the-badge&logo=instagram&logoColor=BB9AF7&labelColor=1A1B26)](https://www.instagram.com/henrikmcln/)
+
 </p>
 
 ## 📊 GitHub Stats
