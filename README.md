@@ -38,9 +38,9 @@ Students (ACSS). I aim to combine academic growth with leadership and service.
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,kotlin,html,css&theme=dark" />
 </p>
 
-**Tools & Platforms**
+**Tools & IDEs**
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,git,github&theme=dark" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio,vscode,intellij,eclipse,git,github&theme=dark" />
 </p>
 
 **Databases & Cloud**
