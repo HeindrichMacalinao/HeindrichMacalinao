@@ -37,17 +37,60 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 - **Frameworks & Tools:** Lucidchart, Figma, Canva Education, Notion, Obsidian
 - **DevTools**: Visual Studio Code, Microsoft Office, Git 
 
-## 📫 Connect with Me!
+## 🤝 Connect with Me 🤝
 
 <p align="center">
+  <!-- Gmail -->
+  <a href="mailto:heindrich.macalinao@gmail.com" style="text-decoration:none;">
+    <img
+      src="https://cdn.simpleicons.org/gmail/F7768E"
+      height="56"
+      alt="Gmail"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-| | |
-|---|---|
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-Heindrich%20Macalinao-1A1B26?style=for-the-badge&logo=simpleicons&logoColor=7AA2F7&labelColor=1A1B26&logoSize=auto)](https://www.linkedin.com/in/heindrichmacalinao) | [![Gmail](https://img.shields.io/badge/Gmail-heindrich.macalinao%40gmail.com-1A1B26?style=for-the-badge&logo=gmail&logoColor=F7768E&labelColor=1A1B26)](mailto:heindrich.macalinao@gmail.com) |
-| [![Facebook](https://img.shields.io/badge/Facebook-heindrichmcln-1A1B26?style=for-the-badge&logo=facebook&logoColor=7DCFFF&labelColor=1A1B26)](https://www.facebook.com/heindrichmcln/) | [![Instagram](https://img.shields.io/badge/Instagram-@henrikmcln-1A1B26?style=for-the-badge&logo=instagram&logoColor=BB9AF7&labelColor=1A1B26)](https://www.instagram.com/henrikmcln/) |
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/heindrichmacalinao" style="text-decoration:none;">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/7AA2F7"
+      height="56"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/heindrichmcln/" style="text-decoration:none;">
+    <img
+      src="https://cdn.simpleicons.org/facebook/7DCFFF"
+      height="56"
+      alt="Facebook"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/henrikmcln/" style="text-decoration:none;">
+    <img
+      src="https://cdn.simpleicons.org/instagram/BB9AF7"
+      height="56"
+      alt="Instagram"
+    />
+  </a>
+
+  <!-- Optional: GitHub -->
+  <!--
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/HeindrichMacalinao" style="text-decoration:none;">
+    <img
+      src="https://cdn.simpleicons.org/github/C0CAF5"
+      height="56"
+      alt="GitHub"
+    />
+  </a>
+  -->
 </p>
-
 ## 📊 GitHub Stats
 <p align="center">
   <img
