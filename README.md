@@ -37,60 +37,38 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 - **Frameworks & Tools:** Lucidchart, Figma, Canva Education, Notion, Obsidian
 - **DevTools**: Visual Studio Code, Microsoft Office, Git 
 
-## 🤝 Connect with Me 🤝
+### 🤝 Connect with Me 
 
 <p align="center">
-  <!-- Gmail -->
-  <a href="mailto:heindrich.macalinao@gmail.com" style="text-decoration:none;">
-    <img
-      src="https://cdn.simpleicons.org/gmail/F7768E"
-      height="56"
-      alt="Gmail"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/heindrichmacalinao" style="text-decoration:none;">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/7AA2F7"
-      height="56"
-      alt="LinkedIn"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/heindrichmcln/" style="text-decoration:none;">
-    <img
-      src="https://cdn.simpleicons.org/facebook/7DCFFF"
-      height="56"
-      alt="Facebook"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/henrikmcln/" style="text-decoration:none;">
-    <img
-      src="https://cdn.simpleicons.org/instagram/BB9AF7"
-      height="56"
-      alt="Instagram"
-    />
+  <a href="mailto:heindrich.macalinao@gmail.com" style="display:inline-block;text-decoration:none;border:0;">
+    <img src="https://cdn.simpleicons.org/gmail/7AA2F7" height="56" alt="Gmail" style="display:block;border:0;outline:none;text-decoration:none;" />
   </a>
 
-  <!-- Optional: GitHub -->
-  <!--
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/HeindrichMacalinao" style="text-decoration:none;">
-    <img
-      src="https://cdn.simpleicons.org/github/C0CAF5"
-      height="56"
-      alt="GitHub"
-    />
+
+  <a href="https://github.com/HeindrichMacalinao" style="display:inline-block;text-decoration:none;border:0;">
+    <img src="https://cdn.simpleicons.org/github/7AA2F7" height="56" alt="GitHub" style="display:block;border:0;outline:none;text-decoration:none;" />
   </a>
-  -->
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/heindrichmacalinao" style="display:inline-block;text-decoration:none;border:0;">
+    <img src="https://cdn.simpleicons.org/linkedin/7AA2F7" height="56" alt="LinkedIn" style="display:block;border:0;outline:none;text-decoration:none;" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.facebook.com/heindrichmcln/" style="display:inline-block;text-decoration:none;border:0;">
+    <img src="https://cdn.simpleicons.org/facebook/7AA2F7" height="56" alt="Facebook" style="display:block;border:0;outline:none;text-decoration:none;" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.instagram.com/henrikmcln/" style="display:inline-block;text-decoration:none;border:0;">
+    <img src="https://cdn.simpleicons.org/instagram/7AA2F7" height="56" alt="Instagram" style="display:block;border:0;outline:none;text-decoration:none;" />
+  </a>
 </p>
+
 ## 📊 GitHub Stats
 <p align="center">
   <img
