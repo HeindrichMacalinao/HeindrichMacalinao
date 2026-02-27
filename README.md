@@ -1,11 +1,13 @@
 <h1 align="center">Hey there, I'm Heindrich 👋</h1>
 
 <h3 align="center">Heindrich Himmler Macalinao</h3>
-I'm a second-year Computer Science student at New Era University, passionate about
-AI development, data science, and solving problems with Java and Python.
+<p align="center">
+I'm a second-year Computer Science student at New Era University, passionate about AI development, data science, and solving problems with Java and Python.
+</p>
 
-Currently a DOST Merit Scholar and Secretary of the Association of Computer Science
-Students (ACSS). I aim to combine academic growth with leadership and service.
+<p align="center">
+Currently a DOST Merit Scholar and Secretary of the Association of Computer Science Students (ACSS). I aim to combine academic growth with leadership and service.
+</p>
 
 ## 🎓 Education
 | Grade Level | Institution | Date |
