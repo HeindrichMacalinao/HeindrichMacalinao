@@ -32,13 +32,11 @@ Students (ACSS). I aim to combine academic growth with leadership and service.
 | [UI and UX Design](https://drive.google.com/file/d/18grJQEmh3J8UzsxpJF9E_cKGR-r2egj-/view?usp=sharing) | DICT | June 2025 |
 
 ## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,python,kotlin,html,css,androidstudio,vscode,intellij,git,github,ibm&theme=dark" />
 </p>
 
 ## 🤝 Connect with Me
-
 <div align="center">
 
 [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail&theme=dark)](mailto:heindrich.macalinao@gmail.com)&nbsp;[![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github&theme=dark)](https://github.com/HeindrichMacalinao)&nbsp;[![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/heindrichmacalinao)&nbsp;[![Facebook](https://go-skill-icons.vercel.app/api/icons?i=facebook&theme=dark)](https://www.facebook.com/heindrichmcln/)&nbsp;[![Instagram](https://go-skill-icons.vercel.app/api/icons?i=instagram&theme=dark)](https://www.instagram.com/henrikmcln/)
