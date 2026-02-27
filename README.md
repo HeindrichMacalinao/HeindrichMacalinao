@@ -38,15 +38,15 @@ I am also a DOST Merit Scholar and the current Secretary of the Association of C
 - **DevTools**: Visual Studio Code, Microsoft Office, Git 
 
 ## 📫 Connect with Me!
-- [LinkedIn](www.linkedin.com/in/heindrichmacalinao)
-- [Gmail](https://mail.google.com/mail/?view=cm&to=heindrich.macalinao@gmail.com)
-- [Facebook](https://www.facebook.com/heindrichmcln/)
-- [Instagram](https://www.instagram.com/henrikmcln/?hl=en)
-
-## 📊 GitHub Stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HeindrichMacalinao&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&cache_seconds=86400"
-    alt="HeindrichMacalinao GitHub Stats"
-  />
-</p>
+<a href="https://www.linkedin.com/in/heindrichmacalinao" target="_blank">
+  <img alt="LinkedIn" height="36" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
+</a>
+<a href="mailto:heindrich.macalinao@gmail.com" target="_blank">
+  <img alt="Gmail" height="36" src="https://cdn.simpleicons.org/gmail/EA4335" />
+</a>
+<a href="https://www.facebook.com/heindrichmcln/" target="_blank">
+  <img alt="Facebook" height="36" src="https://cdn.simpleicons.org/facebook/1877F2" />
+</a>
+<a href="https://www.instagram.com/henrikmcln/" target="_blank">
+  <img alt="Instagram" height="36" src="https://cdn.simpleicons.org/instagram/E4405F" />
+</a>
