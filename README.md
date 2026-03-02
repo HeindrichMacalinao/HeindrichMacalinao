@@ -19,7 +19,7 @@ Currently a DOST Merit Scholar and Secretary of the Association of Computer Scie
 
 <br>
 
-## 🎖️ Badges
+## 🎖️ Badges & Certifications
 
 | Badge | Issued By | Month Issued |
 |:---|:---:|:---:|
@@ -28,6 +28,7 @@ Currently a DOST Merit Scholar and Secretary of the Association of Computer Scie
 | [OCI 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=23D4F165705FF700903A2CFAC4D31AE2222666068F52A05FD3A174DB4F4C0F33) | Oracle University | Dec 2025 |
 | [Oracle Data Platform 2025 Certified Foundations](https://catalog-education.oracle.com/ords/certview/sharebadge?id=F87ED264F34C7F35A8802AC44CBDBBBC76B4CBF16D5B2EA0702C64B65B5CB067) | Oracle University | Dec 2025 |
 | [OCI 2025 Certified AI Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=0E2881D57AE98A4E760BC1BC4B8687EFE062705B0C4123A23A1BE2D9C12237C6) | Oracle University | Dec 2025 |
+| [Gemini Certified University Student](https://edu.google.accredible.com/967265f1-0ab1-44f8-8cda-e81c9947427c#acc.G2kZPAac) | Google | Jan 2026 |
 
 <br>
 
