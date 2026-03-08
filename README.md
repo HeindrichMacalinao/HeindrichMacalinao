@@ -61,5 +61,5 @@ Currently a DOST Merit Scholar and Secretary of the Association of Computer Scie
   <img
     src="https://streak-stats.demolab.com?user=HeindrichMacalinao&theme=tokyonight&hide_border=true"
     height="165"
-    alt="GitHub streak"
+    alt="GitHub Streak."
   />
