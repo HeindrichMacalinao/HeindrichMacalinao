@@ -41,7 +41,7 @@ Currently a DOST Merit Scholar and Secretary of the Association of Computer Scie
 | [Software Development and Design Thinking](https://drive.google.com/file/d/187WEsMUml6yNTCPm9kpvYoWAu2xi_ZLG/view?usp=sharing) | DICT | June 2025 |
 | [Digital Citizenship Training](https://drive.google.com/file/d/1htrulHSI_eFtTzknpG4zb1NvXHFyTnEU/view?usp=sharing) | DICT | June 2025 |
 | [UI and UX Design](https://drive.google.com/file/d/18grJQEmh3J8UzsxpJF9E_cKGR-r2egj-/view?usp=sharing) | DICT | June 2025 |
-| [SENPAI 3.0]() | NEU | February 2026 |
+| [SENPAI 3.0]() | NEU ACSS | February 2026 |
 
 </div>
 
