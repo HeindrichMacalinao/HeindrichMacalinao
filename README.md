@@ -21,7 +21,7 @@ Currently a DOST Merit Scholar and Secretary of the Association of Computer Scie
 
 ## 🎖️ Badges & Certifications
 
-| Badge | Issued By | Month Issued |
+| Badge & Certificate | Issued By | Month Issued |
 |:---|:---:|:---:|
 | [Introduction to Cybersecurity](https://www.credly.com/badges/06aabd62-ddea-4a07-8d36-0c00da428aac/public_url) | Cisco Networking Academy | June 2025 |
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/219090d71d9d43b584d6f7ce2a80525d) | Cognitive Class (IBM) | Nov 2025 |
