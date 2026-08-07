@@ -42,6 +42,7 @@ Currently a DOST Merit Scholar and Secretary of the Association of Computer Scie
 | [Digital Citizenship Training](https://drive.google.com/file/d/1htrulHSI_eFtTzknpG4zb1NvXHFyTnEU/view?usp=sharing) | DICT | June 2025 |
 | [UI and UX Design](https://drive.google.com/file/d/18grJQEmh3J8UzsxpJF9E_cKGR-r2egj-/view?usp=sharing) | DICT | June 2025 |
 | [SENPAI 3.0](https://drive.google.com/file/d/1GypgUlhsuNBM1qYf0eVtU3UBiG6Yn1qM/view?usp=sharing) | NEU ACSS | February 2026 |
+| [Basics of Cloud Technology and Data Security on the Cloud](https://drive.google.com/file/d/1uIJHFrV77OZyhTUtGvVxXOSEXGaY_HbI/view?usp=sharing) | NEU CICS | March 2026 |
 
 </div>
 
