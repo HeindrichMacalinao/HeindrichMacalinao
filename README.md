@@ -43,6 +43,10 @@ Currently a DOST Merit Scholar and Secretary of the Association of Computer Scie
 | [UI and UX Design](https://drive.google.com/file/d/18grJQEmh3J8UzsxpJF9E_cKGR-r2egj-/view?usp=sharing) | DICT | June 2025 |
 | [SENPAI 3.0](https://drive.google.com/file/d/1GypgUlhsuNBM1qYf0eVtU3UBiG6Yn1qM/view?usp=sharing) | NEU ACSS | February 2026 |
 | [Basics of Cloud Technology and Data Security on the Cloud](https://drive.google.com/file/d/1uIJHFrV77OZyhTUtGvVxXOSEXGaY_HbI/view?usp=sharing) | NEU CICS | March 2026 |
+| [Life After Graduation: The Reality No One Talks About](https://drive.google.com/file/d/1ST4TOyYuF5Klm_scmAJ3S9MxjsW-jSIR/view?usp=sharing) | NEU CICS | March 2026 |
+| [Building A Home without Windows: A Student's Guide to Linux](https://drive.google.com/file/d/1GdyRt8MxjSLg2RZZ9cPYYdIkk0LYTCzv/view?usp=sharing) | NEU CICS | March 2026 |
+| [Agentic AI](https://drive.google.com/file/d/1ZGim8S0Aogye0W6WFmmTTZVNcmuGMcVV/view?usp=sharing) | NEU CICS | March 2026 |
+
 
 </div>
 
