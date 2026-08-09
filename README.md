@@ -2,7 +2,7 @@
 
 <h3 align="center">Heindrich Himmler Macalinao</h3>
 <p align="center">
-I'm a second-year Computer Science student at New Era University, passionate about AI development, data science, and machine learning.
+I'm a third-year Computer Science student at New Era University, passionate about AI development, data science, and machine learning.
 </p>
 
 <p align="center">
